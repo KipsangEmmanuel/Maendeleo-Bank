@@ -1,28 +1,37 @@
-body {
-    padding: 40px 150px;
-}
-.header {
+ body {
+    padding: 50px 150px;
+  }
+  
+  .header {
     display: flex;
     justify-content: space-between;
-    margin: 50px 35px;
-    
-}
-.input-box {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .inputBox {
     display: flex;
     justify-content: center;
     padding: 20px;
-}
-.input-box input {
-    height: 50px;
+  }
+  
+  .inputBox input {
     width: 70%;
-}
-.buttons {
+    height: 50px;
+  }
+  
+  .buttons {
     display: flex;
     justify-content: space-around;
-}
-.tables_section {
+    margin-top: 60px;
+  }
+  
+  .table_section {
     border-radius: 41px;
     min-height: 40vh;
     min-width: 70%;
-    margin-top: 50px;
-}
+    margin-top: 80px;
+    padding: 20px;
+  } 
+
+  
