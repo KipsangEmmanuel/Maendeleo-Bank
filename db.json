@@ -1,0 +1,122 @@
+{
+  "transaction_history": [
+    {
+      "date": "2023-04-01T14:33:36.442Z",
+      "transaction_type": "Deposit",
+      "amount": "500",
+      "balance": 0,
+      "id": 1
+    },
+    {
+      "date": "2023-04-01T14:54:47.078Z",
+      "transaction_type": "Deposit",
+      "amount": "3232",
+      "balance": 0,
+      "id": 2
+    },
+    {
+      "date": "2023-04-01T14:55:03.031Z",
+      "transaction_type": "Deposit",
+      "amount": "1000",
+      "balance": 0,
+      "id": 3
+    },
+    {
+      "date": "2023-04-01T15:08:39.295Z",
+      "transaction_type": "Deposit",
+      "amount": "100",
+      "balance": 0,
+      "id": 4
+    },
+    {
+      "date": "2023-04-01T15:10:40.525Z",
+      "transaction_type": "Deposit",
+      "amount": "100",
+      "balance": 0,
+      "id": 5
+    },
+    {
+      "date": "2023-04-01T15:10:48.393Z",
+      "transaction_type": "Deposit",
+      "amount": "200",
+      "balance": 0,
+      "id": 6
+    },
+    {
+      "date": "2023-04-01T15:11:00.770Z",
+      "transaction_type": "Deposit",
+      "amount": "100",
+      "balance": 0,
+      "id": 7
+    },
+    {
+      "date": "2023-04-01T15:12:23.880Z",
+      "transaction_type": "Deposit",
+      "amount": "100",
+      "balance": 0,
+      "id": 8
+    },
+    {
+      "date": "2023-04-01T15:12:32.533Z",
+      "transaction_type": "Deposit",
+      "amount": "500",
+      "balance": 0,
+      "id": 9
+    },
+    {
+      "date": "2023-04-01T15:34:12.789Z",
+      "transaction_type": "Deposit",
+      "amount": "222",
+      "balance": 500,
+      "id": 10
+    },
+    {
+      "date": "2023-04-01T15:34:32.198Z",
+      "transaction_type": "Deposit",
+      "amount": "100",
+      "balance": 722,
+      "id": 11
+    },
+    {
+      "date": "2023-04-01T15:34:40.711Z",
+      "transaction_type": "Withdraw",
+      "amount": "100",
+      "balance": 822,
+      "id": 12
+    },
+    {
+      "date": "2023-04-01T15:43:47.076Z",
+      "transaction_type": "Deposit",
+      "amount": "0",
+      "balance": 722,
+      "id": 13
+    },
+    {
+      "date": "2023-04-01T15:44:11.112Z",
+      "transaction_type": "Deposit",
+      "amount": "278",
+      "balance": 722,
+      "id": 14
+    },
+    {
+      "date": "2023-04-01T15:44:19.611Z",
+      "transaction_type": "Withdraw",
+      "amount": "1000",
+      "balance": 1000,
+      "id": 15
+    },
+    {
+      "date": "2023-04-01T15:44:29.528Z",
+      "transaction_type": "Deposit",
+      "amount": "1500",
+      "balance": 0,
+      "id": 16
+    }
+  ],
+  "Balance": [
+    {
+      "amount": 1500,
+      "id": 0
+    }
+  ]
+}
