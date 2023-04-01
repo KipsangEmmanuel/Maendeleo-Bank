@@ -1,0 +1,24 @@
+{
+  "transaction_history": [
+    {
+      "date": "434343434",
+      "transaction_type": "Deposit",
+      "amount": "2000",
+      "balance": "5454545",
+      "id": 3
+    },
+    {
+      "date": "2023-03-31T21:52:22.024Z",
+      "transaction_type": "Deposit",
+      "amount": "2323",
+      "balance": 0,
+      "id": 4
+    }
+  ],
+  "Balance": [
+    {
+      "id": 0,
+      "amount": 20000
+    }
+  ]
+}
